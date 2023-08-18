@@ -1,8 +1,8 @@
 package main
 
 import "fmt"
-	import "net/http"
+import "net/http"
 
-func main()  {
+func main() {
 	fmt.Println("Hello World!")
 }
